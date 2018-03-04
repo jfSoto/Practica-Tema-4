@@ -14,20 +14,5 @@ public class Moto
 		matricula = m;
 		cilindrada = c;
 	}
-	public String getMatricula()
-	{
-		return matricula;
-	}
-	public int getCilindrada () 
-	{
-		return cilindrada;
-	}
-	public void setMatricula (String m) 
-	{
-		matricula = m;
-	}
-	public void setCilindrada (int c) 
-	{
-		cilindrada = c;
-	}
+
 }
