@@ -22,6 +22,6 @@ public class Moto
 	{
 		return cilindrada;
 	}
-	//Zampame
+	//Estas últimas líneas y este comentario han sido escritos por Alejandro Díaz Ruiz
 
 }
