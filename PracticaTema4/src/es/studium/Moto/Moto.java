@@ -14,5 +14,14 @@ public class Moto
 		matricula = m;
 		cilindrada = c;
 	}
+	public String getMatricula()
+	{
+		return matricula;
+	}
+	public int getCilindrada () 
+	{
+		return cilindrada;
+	}
+	//Zampame
 
 }
