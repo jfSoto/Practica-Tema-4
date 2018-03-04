@@ -23,5 +23,7 @@ public class Moto
 		return cilindrada;
 	}
 	//Estas últimas líneas y este comentario han sido escritos por Alejandro Díaz Ruiz
+	
+	//Estas últimas líneas y este comentario han sido escritos por Alvaro Sanchez Doncel
 
 }
